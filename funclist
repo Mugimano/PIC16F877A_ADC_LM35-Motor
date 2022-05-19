@@ -1,0 +1,23 @@
+___ftneg: CODE, 3598 0 12
+_lcd_send: CODE, 19 0 42
+___awdiv: CODE, 61 0 116
+_temperature: CODE, 1439 0 283
+_lcd_data: CODE, 3630 0 20
+___ftpack: CODE, 177 0 123
+___awmod: CODE, 3886 0 102
+_main: CODE, 974 0 227
+___lwtoft: CODE, 3650 0 23
+___ftadd: CODE, 1722 0 326
+___lwdiv: CODE, 3808 0 78
+_adc_value: CODE, 300 0 135
+___lwmod: CODE, 3740 0 68
+___ftmul: CODE, 1201 0 238
+_adc_init: CODE, 3585 0 5
+___awtoft: CODE, 3698 0 42
+_adc_hex: CODE, 601 0 173
+_command: CODE, 3610 0 20
+___fttol: CODE, 435 0 166
+___ftge: CODE, 3988 0 108
+_lcd_init: CODE, 3673 0 25
+___ftdiv: CODE, 774 0 200
+Total: 2532
